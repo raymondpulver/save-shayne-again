@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 'use strict';
 
 const bip39 = require('bip39');
