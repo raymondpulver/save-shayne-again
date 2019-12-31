@@ -1,0 +1,23 @@
+{
+  "name": "save-shayne-round-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+	"bin": {
+		"save-shayne-again": "./save-shayne-again.js"
+	},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bip39": "^3.0.2",
+    "bip44": "0.0.1",
+    "bitcoinjs-lib": "^5.1.6",
+    "bs58check": "^2.1.2",
+    "create-hash": "^1.2.0",
+    "hdkey": "^1.1.1",
+    "yargs": "^15.0.2"
+  }
+}
